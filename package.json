@@ -1,0 +1,11 @@
+{
+  "name": "@reloaddk/stylelint",
+  "private": true,
+  "version": "0",
+  "workspaces": [
+    "./packages/*"
+  ],
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  }
+}

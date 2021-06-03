@@ -1,0 +1,15 @@
+{
+  "name": "@reloaddk/stylelint-recommended",
+  "version": "0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-standard": "^22.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^13.13.1"
+  }
+}
