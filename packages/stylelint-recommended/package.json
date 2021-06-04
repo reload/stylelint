@@ -1,15 +1,27 @@
 {
   "name": "@reloaddk/stylelint-recommended",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "license": "MIT",
   "main": "index.js",
   "files": [
     "index.js"
   ],
+  "author": {
+    "email": "lasse@reload.dk",
+    "name": "Lasse Borly",
+    "url": "https://github.com/lasseborly/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reload/stylelint.git",
+    "directory": "packages/stylelint-recommended"
+  },
   "dependencies": {
     "stylelint-config-prettier": "^8.0.2",
     "stylelint-config-standard": "^22.0.0"
   },
   "peerDependencies": {
+    "prettier": "^2.3.0",
     "stylelint": "^13.13.1"
   }
 }

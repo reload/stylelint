@@ -1,7 +1,11 @@
 {
   "name": "@reloaddk/stylelint",
   "private": true,
-  "version": "0.1.0",
+  "author": {
+    "email": "lasse@reload.dk",
+    "name": "Lasse Borly",
+    "url": "https://github.com/lasseborly/"
+  },
   "workspaces": [
     "./packages/*"
   ],
