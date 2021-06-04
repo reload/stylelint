@@ -38,3 +38,9 @@ Spin this badboy up and point stylelint towards your CSS or SCSS files.
 ```sh
 npx stylelint "**/*.css"
 ```
+
+## Editor integration
+
+`.example.vscode` is an example of smart editor integration that will help
+you with code quality and code style on save. The equivelant can be configured
+for additional editors. PR's are encouraged.
