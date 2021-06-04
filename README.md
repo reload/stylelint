@@ -41,6 +41,7 @@ npx stylelint "**/*.css" && npx prettier "**/*.css"
 
 ## Editor integration
 
-`.example.vscode` is an example of smart editor integration that will help
-you with code quality and code style on save. The equivelant can be configured
-for additional editors. PR's are encouraged.
+The `editor_integration` directory is an example of smart editor integration
+that will help you with code quality and code style on save.
+The equivelant can be configured for additional editors.
+PR's are encouraged to broaden the example support.
