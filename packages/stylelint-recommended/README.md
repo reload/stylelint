@@ -26,8 +26,8 @@ Create these two files alongside your `package.json` file.
 }
 ```
 
-Spin this badboy up and point stylelint towards your CSS files.
+Spin this badboy up and point stylelint and prettier towards your CSS files.
 
 ```sh
-npx stylelint "**/*.css"
+npx stylelint "**/*.css" && npx prettier "**/*.css"
 ```

@@ -33,10 +33,10 @@ Create these two files alongside your `package.json` file.
 }
 ```
 
-Spin this badboy up and point stylelint towards your CSS or SCSS files.
+Spin this badboy up and point stylelint and prettier towards your CSS or SCSS files.
 
 ```sh
-npx stylelint "**/*.css"
+npx stylelint "**/*.css" && npx prettier "**/*.css"
 ```
 
 ## Editor integration
