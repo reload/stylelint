@@ -8,8 +8,8 @@ module.exports = {
   ],
   rules: {
     "max-nesting-depth": 3,
-    order: null,
-    "properties-order": null,
-    "properties-alphabetical-order": null,
+    "order/order": null,
+    "order/properties-order": null,
+    "order/properties-alphabetical-order": null,
   },
 };
