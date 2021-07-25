@@ -1,3 +1,5 @@
+![stylelint_reload](https://figmage.com/images/ckEiyoCFCiQM0I-uA_WAd.png)
+
 # Styling the Reload way
 
 A [Reload](https://reload.dk/) opinionated way of making sure our CSS/SCSS code is up to snuff.
