@@ -1,6 +1,6 @@
 {
   "name": "@reloaddk/stylelint-recommended-scss",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "license": "MIT",
   "main": "index.js",
   "files": [
@@ -22,7 +22,7 @@
     "stylelint-config-standard": "^22.0.0"
   },
   "peerDependencies": {
-    "prettier": "^2.3.0",
-    "stylelint": "^13.13.1"
+    "prettier": "^2.0",
+    "stylelint": "^13.0"
   }
 }
